@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Josephine 👋
 
-<!--
-**jse-bit/jse-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer | Spring Boot | AWS
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java 21, Spring Boot, REST APIs
+- AWS, Docker, Git, GitHub
+- Oracle, MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Cloud-native Java development
+- Microservices and CI/CD
+
+## Projects
+- Spring Boot REST API
+- Dockerized Java Application
